@@ -1,3 +1,4 @@
+// Function factory / Função Fabrica
 function criaCalculadora(){
     return {
         display: document.querySelector('.display'),
